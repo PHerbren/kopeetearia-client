@@ -1,0 +1,45 @@
+nav {
+    font-weight: 700;
+    font-size: 18px;
+    position: absolute !important;
+    height: 75px;
+    width: 100%;
+    z-index: 100;
+    padding: 0 20% !important;
+}
+
+.icon {
+    font-family: 'Kanit', sans-serif;
+    font-size: 30px;
+}
+
+.navbar-toggler {
+    width: 70px;
+}
+
+.navbar-collapse {
+    flex-grow: unset;
+}
+
+.navbar-brand {
+    font-weight: 800;
+}
+
+.navbar-custom {
+  background-color: rgb(20, 20, 20);
+}
+
+.navbar-text  {
+  color: rgba(255,255,255,.8);
+}
+
+.navbar-text:hover {
+    color: rgba(255,255,255,.8) !important;
+}
+
+.navbar-button {
+    width: 100px;
+    height: 40px;
+    color: #fff;
+    border: none;
+}
